@@ -1,0 +1,28 @@
+#countlable {
+  display: block;
+  text-align: center;
+  font-size: 150px;
+}
+div {
+  text-align: center;
+}
+#div {
+  border: 4px groove black;
+  padding: 30%;
+  background-color: cornsilk;
+}
+
+#decrease:hover {
+  background-color: black;
+  color: blue;
+}
+
+#reset:hover {
+  background-color: black;
+  color: blue;
+}
+
+#increase:hover {
+  background-color: black;
+  color: blue;
+}
